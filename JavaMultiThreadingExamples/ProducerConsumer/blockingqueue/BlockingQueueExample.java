@@ -1,10 +1,10 @@
-package BlockingQueue;
+package blockingqueue;
 
 import java.util.Random;
 import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.LinkedBlockingQueue;
 
-/*  The below program runs infinitely as no break condition specified. Could be changed as per requirement*/
+/* The below program runs infinitely as no break condition specified. Could be changed as per requirement */
 public class BlockingQueueExample {
 
 	public static void main(String[] args) {
