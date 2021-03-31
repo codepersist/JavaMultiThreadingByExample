@@ -1,0 +1,3 @@
+module democlient {
+	requires demo;
+}
